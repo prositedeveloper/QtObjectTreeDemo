@@ -1,0 +1,20 @@
+# Qt / build artifacts
+build/
+debug/
+release/
+*.user
+*.user.*
+*.o
+moc_*
+*.exe
+*.stash
+Makefile*
+*.dll
+*.so
+*.a
+*.obj
+*.pch
+*.pdb
+*.log
+*.autosave
+*.pro.user*
